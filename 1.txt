@@ -10,6 +10,7 @@ What do you like more?????
 
 //Your answer
 //example: Васечкин В.В. - 8
+1
 
 
 
